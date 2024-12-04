@@ -1,8 +1,6 @@
 import React, { useState } from "react";
-import Creatuser from "../components/userMgmt/CreateUser";
 import Users from "../components/userMgmt/Users";
-import UpdateUser from "../components/userMgmt/UpdateUser";
-import RUsers from "../components/roleMgmt/rUsers";
+import RUsers from "../components/roleMgmt/RUsers";
 import '../style/tailwind.css'
 
 const btnmgmt = {

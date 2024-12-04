@@ -7,9 +7,11 @@ import '../style/tailwind.css'
 import UpdateUser from '../components/userMgmt/UpdateUser'
 import Users from '../components/userMgmt/Users'
 import Dashboard from '../Pages/Dashboard'
-import Creatuser  from '../components/userMgmt/CreateUser'
+import Creatuser from '../components/userMgmt/Createuser'
 import CreateRole from '../components/roleMgmt/CreateRole'
-import RUsers from '../components/roleMgmt/rUsers'
+// import rUsers from '../components/roleMgmt/RUsers'
+import RUsers from '../components/roleMgmt/RUsers'
+// import RUsers from '../components/roleMgmt/RUsers'
 
 
 
