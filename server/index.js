@@ -6,7 +6,7 @@ const RoleModel = require('./models/Roles');
 
 const app = express();
 app.use(cors({
-    origin:["https://mern-deploy-rouge.vercel.app/"],
+    origin:["https://mern-deploy-rouge.vercel.app"],
     method :["POST","GET"],
     credentials : true
 }));
