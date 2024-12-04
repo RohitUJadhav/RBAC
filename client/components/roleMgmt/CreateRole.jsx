@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
-import RUsers from "./rUsers";
+import RUsers from "./RUsers";
 
 function CreateRole() {
 const[role,setRole] = useState()
